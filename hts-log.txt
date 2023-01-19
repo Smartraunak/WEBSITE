@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Jan 2023 21:50:53 at https://www.shgtechnologies.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.shgtechnologies.com/ -O1 "C:\My Web Sites\webproduct" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:51:26	Error: 	"Not Found" (404) at link https://www.shgtechnologies.com/images/612fec8a5d56d80ce1c2f4e0_20210831 - Celesta Web Header Cutdown_v04 (1 (from https://www.shgtechnologies.com/)
+21:52:38	Error: 	"Not Found" (404) at link https://www.shgtechnologies.com/videos/An Indian Invention for Visually Impaired.webm (from https://www.shgtechnologies.com/)
+21:52:38	Warning: 	File not parsed, looks like binary: https://www.shgtechnologies.com/images/eyehospital.jfif
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 43 links scanned, 40 files written (39548850 bytes overall) [39371808 bytes received at 374969 bytes/sec], 274284 bytes transferred using HTTP compression in 4 files, ratio 20%, 3.1 requests per connection
+(2 errors, 1 warnings, 0 messages)
